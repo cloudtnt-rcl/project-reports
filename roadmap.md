@@ -19,3 +19,8 @@
 - VC Wallet Client (for testing only) - alpha
 - VC Wallet Admin Portal (for testing only) - alpha
 - Documentation - alpha
+
+## May 2024
+
+- Launch Project Website [--Completed--]
+- Write White Paper [--Completed--]
