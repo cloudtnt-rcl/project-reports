@@ -12,4 +12,4 @@
 
 ## September 2024
 
-- Open ID Connect (for testing only) - alpha
+- VC Meetup September 2024
