@@ -2,15 +2,10 @@
 
 # 2024
 
-## September 2024
+## July 2024
 
-- First VC Meetup September 2024
-
-## August 2024
-
-- VC Issuer API Server (for testing only) - alpha
-- VC Issuer Client (for testing only) - alpha
-- VC Issuer Admin Portal (for testing only) - alpha
+- First VC Meetup - DID and Verifiable Credentials - Deep Dive
+- Workforce Hub (for testing only) - alpha
 - Documentation - alpha
 
 ## June 2024
