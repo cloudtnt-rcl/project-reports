@@ -2,17 +2,17 @@
 
 # 2024
 
-## July 2024
+## August 2024
 
-- First VC Meetup - DID and Verifiable Credentials - Deep Dive
+- First Meetup - Decentralized Identifiers (DID) and Verifiable Credentials (VC)
 - Workforce Hub (for testing only) - alpha
 - Documentation - alpha
 
-## June 2024
+## July 2024
 
-- VC Wallet API Server (for testing only) - alpha
-- VC Wallet Client (for testing only) - alpha
-- VC Wallet Admin Portal (for testing only) - alpha
+- CloudTnT API Server (for testing only) - alpha
+- CLoudTnT API Client (for testing only) - alpha
+- CloudTnT API Server Admin Portal (for testing only) - alpha
 - Documentation - alpha
 
 ## May 2024
