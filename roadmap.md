@@ -11,6 +11,7 @@
 ## July 2024
 
 - CloudTnT API Server (for testing only) - alpha
+- CloudTnT SDK (for testing only) - alpha
 - CLoudTnT API Client (for testing only) - alpha
 - CloudTnT API Server Admin Portal (for testing only) - alpha
 - Documentation - alpha
