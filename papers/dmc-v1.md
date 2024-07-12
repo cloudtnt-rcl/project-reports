@@ -63,7 +63,7 @@ Many DMCs are currently offered outside the traditional academic education and t
 
 ### Online Learning
 
-With the rise of the Massive Open Online Courses (MOOCs), there has been a flood of DMCs offered online on websites like Coursera, EdX, Udemy, etc. It must be noted that most of these credentials uses standards-based systems to promote interoperability.
+With the rise of the Massive Open Online Courses (MOOCs), there has been a flood of DMCs offered online on websites like Coursera, EdX, Udemy, etc. It must be noted that most of these credentials do not use standards-based systems to promote interoperability.
 
 ### Workplace Learning
 
@@ -97,7 +97,7 @@ The electronic file contains the metadata for the credential. The data can be em
 
 ## Interoperability Standards
 
-In an effort to standardize the structure of DMCs to mke them interoperable, there are a number of standards that have been developed. These various standards are described below.
+In an effort to standardize the structure of DMCs to make them interoperable, there are a number of standards that have been developed. These various standards are described below.
 
 ### W3C Decentralized Identifiers
 
