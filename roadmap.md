@@ -2,7 +2,7 @@
 
 # 2024
 
-## Septeber 2024
+## September 2024
 - Second Meetup - Verifiable Credentials, Decentralized Identifiers and Open Badges (Deep Dive)
 - CloudTnT API Server (public preview) - preview
 - CloudTnT SDK (public preview) - preview
