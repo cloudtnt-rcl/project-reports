@@ -23,10 +23,10 @@ The DMC ecosystem is comprised of three principal actors as described below.
 ### Holders
 A holder is the individual who earns a DMC.
 
-## Issuers
+### Issuers
 An issuer is an individual or organization who issues a DMC to a holder.
 
-## Verifiers
+### Verifiers
 A verifier is an individual or organization, such as an employer, who verifies that the credential presented by a holder was authentically issued by an issuer.
 
 ## Characteristics of Digital Micro-credentials
@@ -63,7 +63,7 @@ Many DMCs are currently offered outside the traditional academic education and t
 
 ### Online Learning
 
-With the rise of the Massive Open Online Courses (MOOCs), there has been a flood of DMCs offered online on websites like Coursera, EdX, Udemy, etc. It must be noted that most of these credentials are neither interoperable nor standards-based.
+With the rise of the Massive Open Online Courses (MOOCs), there has been a flood of DMCs offered online on websites like Coursera, EdX, Udemy, etc. It must be noted that most of these credentials uses standards-based systems to promote interoperability.
 
 ### Workplace Learning
 
@@ -76,9 +76,10 @@ A holder can present evidence of their workplace competence achieved through pri
 ### Formal Education and Training
 
 DMCs can also be earned in the traditional academic and training system such as:
-•	Schools and Universities
-•	Training Intuitions and Vocational Centers
-•	Formal Apprenticeships
+
+-	Schools and Universities
+-	Training Intuitions and Vocational Centers
+-	Formal Apprenticeships
 
 ## Anatomy of a Digital Micro-credential
 
@@ -96,7 +97,7 @@ The electronic file contains the metadata for the credential. The data can be em
 
 ## Interoperability Standards
 
-In an effort to standardize the structure of DMCs, there are a number of standards that have been developed. These various standards are described below.
+In an effort to standardize the structure of DMCs to mke them interoperable, there are a number of standards that have been developed. These various standards are described below.
 
 ### W3C Decentralized Identifiers
 
@@ -148,7 +149,7 @@ The credential details, criteria and evidence must be structured to meet the req
 
 ## Machine Learning and Artificial Intelligence
 
-Machine Leaning (ML) and Artificial Intelligence (AI) can be harnessed to further improve the DMC ecosystem. To implement ML and AI, it is important to ensure the DMC ecosystem produces machine readable data. To this end, the W3C and Open Badges interoperability standards are important tools in producing the big data required for Machine Learning and AI. There are many potentials uses for generative AI solutions in:
+Machine Leaning (ML) and Artificial Intelligence (AI) can be harnessed to further improve the DMC ecosystem. To implement ML and AI, it is important to ensure the DMC ecosystem produces machine readable data. To this end, the W3C and Open Badges interoperability standards are important tools in producing the big data required for Machine Learning and AI. There are many potentials uses for generative AI solutions in :
 
 -	Developing Job Descriptions
 -	Designing competence-based training  
@@ -162,7 +163,7 @@ Machine Leaning (ML) and Artificial Intelligence (AI) can be harnessed to furthe
 The CloudTnT project aims to develop a DMC Issuer Platform that allow issuers to issue credentials that comply with the W3C and Open Badges standards. In addition, an open-source Holder Wallet will be developed that can be hosted by any individual or organization for holders to store and display their credentials. 
 
 ### Phase 2
- 
+
 In the second phase, work will be started to develop a Workforce Hub and AI Models for workforce development.
 
 
