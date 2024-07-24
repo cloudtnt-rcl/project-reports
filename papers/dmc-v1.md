@@ -101,7 +101,7 @@ In an effort to standardize the structure of DMCs to make them interoperable, th
 
 ### W3C Decentralized Identifiers
 
-The [W3C Specification for Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/) provides a mechanism to uniquely identity the holder and the issuer of a DMC. It uses cryptography to secure the digital credentials.
+The [W3C Specification for Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/) provides a mechanism to uniquely identify the holder and the issuer of a DMC. It uses cryptography to secure the digital credentials.
 
 ### W3C Verifiable Credentials
 
@@ -109,7 +109,7 @@ The [W3C Specification for Verifiable Credentials](https://www.w3.org/TR/vc-data
 
 ### 1Edtech Open Badges Specification
 
-The [Open Badges V3](https://www.imsglobal.org/spec/ob/v3p0) specification builds on the W3C specifications to define the requirement for the open badges. The Open Badge is issued as an image file with the credential’s metadata embedded in the badge. The badge adopts and expands the W3C specification for data modelling and cryptographic security.
+The [Open Badges V3](https://www.imsglobal.org/spec/ob/v3p0) specification builds on the W3C specifications to define the requirement for the data structure fro the credential. The Open Badge may be issued as an image file with the credential’s metadata embedded in the badge. The badge adopts and expands the W3C specification for data modelling and cryptographic security.
 
 ## Security
 
