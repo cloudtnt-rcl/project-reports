@@ -109,7 +109,7 @@ The [W3C Specification for Verifiable Credentials](https://www.w3.org/TR/vc-data
 
 ### 1Edtech Open Badges Specification
 
-The [Open Badges V3](https://www.imsglobal.org/spec/ob/v3p0) specification builds on the W3C specifications to define the requirement for the data structure fro the credential. The Open Badge may be issued as an image file with the credential’s metadata embedded in the badge. The badge adopts and expands the W3C specification for data modelling and cryptographic security.
+The [Open Badges V3](https://www.imsglobal.org/spec/ob/v3p0) specification builds on the W3C specifications to define the requirement for the data structure of the credential. The Open Badge may be issued as an image file with the credential’s metadata embedded in the image file. The badge adopts and expands the W3C specification for data modelling and cryptographic security.
 
 ## Security
 
